@@ -1,0 +1,25 @@
+html {
+	height: 100%
+}
+
+body {
+	background-image: url("/images/pred.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+  color: whitesmoke;
+  font-family: 'Roboto Slab', serif;;
+	font-size: 30px;
+	height: 100%
+}
+
+h1 {
+  padding-top: 150px;
+	text-align: right;
+  padding-right: 100px;
+}
+
+.wrapper {
+  text-align: right;
+  margin-top: 250px;
+  margin-right: 500px;
+}
